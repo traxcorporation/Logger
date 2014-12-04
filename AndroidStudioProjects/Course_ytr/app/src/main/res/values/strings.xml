@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Course_ytr</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="Fruits">Fruits</string>
+    <string name="Laitiers">laitier</string>
+    <string name="Legumes">legume</string>
+    <string name="Boucherie">boucherie</string>
+    <string name="Poissonerie">poissonerie</string>
+    <string name="Boulangerie">boulangerie</string>
+    <string name="Charcuterie">charcuterie</string>
+
+</resources>
